@@ -24,29 +24,12 @@
 }
 
 .nav__badge {
-  background-color: tomato;
-  width: 20px;
-  height: 20px;
-  border-radius: 10px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: white;
-  font-weight: 600;
-  font-size: 12px;
   position: absolute;
   top: -15px;
   right: -10px;
 }
 
 .nav__notification {
-  background-color: tomato;
-  width: 5px;
-  height: 5px;
-  border-radius: 2.5px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   position: absolute;
   top: -15px;
   right: -10px;

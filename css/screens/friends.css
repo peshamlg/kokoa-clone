@@ -16,13 +16,9 @@
   margin: 0px 5px;
 }
 
-.friends-screen {
-  padding: 0px var(--horizontal-space);
-}
-
 .friends-screen__channel {
   margin-top: 20px;
-  border-top: 1px solid rgba(0, 0, 0, 0.2);
+  border-top: var(--main-border);
   padding-top: 15px;
 }
 
@@ -31,6 +27,6 @@
   justify-content: space-between;
   align-items: center;
   margin-bottom: 25px;
-  color: rgba(0, 0, 0, 0.5);
+  color: var(--font-gray);
   font-size: 16px;
 }

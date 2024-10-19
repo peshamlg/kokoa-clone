@@ -41,6 +41,18 @@
   color: var(--font-gray);
 }
 
+.user-component__info span {
+  display: block;
+  margin-left: 5px;
+  margin-top: 10px;
+  color: tomato;
+}
+
+.user-component__info {
+  display: flex;
+  align-items: center;
+}
+
 .user-component__avatar--xl {
   width: 80px;
   height: 80px;
